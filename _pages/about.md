@@ -25,6 +25,7 @@ Professional & Academic Highlights
 
 News & Updates
 ======
+* **April 2026** — Attended the **Flower AI Summit 2026** in London and presented a research poster. [Watch the Event Stream](https://www.youtube.com/live/3Frz2ggWmeI?si=A7QNdj9rvpTiiK0a&t=10866)
 * **December 2025** — Achieved an overall **Band 7.0** in the IELTS Academic Test (Listening: 8.0, Reading: 7.0).
 * **Early 2025** — Our book chapter on blending ensemble models for energy analytics was officially published by **Springer**.
 * **2022** — Selected by Miyazaki University and the Bangladesh Government for the **Bangladesh-Japan Engineers Training Program**.
